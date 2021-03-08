@@ -27,7 +27,7 @@ https://nbviewer.jupyter.org/
       
 6. Unconstrained Optimization Algorithms: How To
 
-       -- Scikit-Learn LogisticRegression model uses various algorithms for the optimization in the gradient descent technique. In this notebook we will try to understand how to use some of the optimization algorithms.
+       -- Scikit-Learn LogisticRegression model uses various algorithms for the optimizing the Gradient Descent algorithm. In this notebook we try to understand how to use some of the optimization algorithms.
 
 
       
