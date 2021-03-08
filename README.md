@@ -3,6 +3,15 @@ https://nbviewer.jupyter.org/
 
 ## Logistic Regression: A Comparative Understanding
 
+In this notebook series, we study the Logistic Regression classifier model by performing following comparisons.
+
+- Binary vs multi-class classification
+- Batch Gradient Descent vs Stochastic Gradient Descent algorithms
+- Multi-class classification: One-vs-all vs Softmax regression
+- Regularization: L2/L1 vs early stopping
+
+
+
 1. Logistic Regression: Binary Classification using Batch Gradient Descent
 
        -- In this notebook, we use Scikit-Learn's Batch Gradient Descent algorithm for Logistic Regression to perform binary classification. 
