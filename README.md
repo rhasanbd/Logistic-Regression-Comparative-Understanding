@@ -37,7 +37,7 @@ In this notebook series, we study the Logistic Regression classifier model by pe
 
        -- In this notebook, we compare the Logistic Regression classifier model with two other classifier models: K-nearest Neighbors & Naive Bayes classifier.
       
-6. Logistic Regression: Optimization Techniques
+6. Logistic Regression: Gradient Descent Optimization Techniques
 
        -- In this notebook, we learn how to optimize a Logistic Regression classifier. We use a large dataset to reveal the benefit of optimization techniques. We investigate the following two optimization techniques: Optimization Algorithms (solvers) & Dimensionality Reduction
       
