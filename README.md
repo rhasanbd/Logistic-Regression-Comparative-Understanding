@@ -21,15 +21,20 @@ In this notebook series, we study the Logistic Regression classifier model by pe
 2. Logistic Regression: Binary Classification using Stochastic Gradient Descent
 
        -- In this notebook, we use Scikit-Learn's Stochastic Gradient Descent algorithm for Logistic Regression to perform binary classification. 
+       
       
 3. Logistic Regression: Multi-class Classification using Batch Gradient Descent
 
-       -- In this notebook, we use Scikit-Learn's Batch Gradient Descent algorithm for Logistic Regression to perform multi-class classification. We study two strategies for multi-class classification: One-vesus-all (OvA) & Multinomial (Softmax)
+       -- In this notebook, we use Scikit-Learn's Batch Gradient Descent algorithm for Logistic Regression to perform multi-class classification. 
+       
+       -- We study two strategies for multi-class classification: One-vesus-all (OvA) & Multinomial (Softmax)
       
 
 4. Logistic Regression: Multi-class Classification using Stochastic Gradient Descent
 
        -- In this notebook, we apply the Stochastic Gradient Descent (SGD) algorithm for solving a multi-class classification problem using Logistic Regression. 
+       
+       -- We use the One-versus-All (OvA) technique.
       
        -- We study the impact of two types of regularization: L2/L1 & Early Stopping
       
