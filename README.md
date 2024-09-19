@@ -1,9 +1,9 @@
-If github in unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer:
+If GitHub is unable to render a Jupyter Notebook, copy the link of the notebook and enter it into the nbviewer:
 https://nbviewer.jupyter.org/
 
 ## Logistic Regression: A Comparative Understanding
 
-In this notebook series, we study the Logistic Regression classifier model by performing following comparisons.
+In this notebook series, we study the Logistic Regression classifier model by performing the following comparisons.
 
 - Binary vs multi-class classification
 - Batch Gradient Descent vs Stochastic Gradient Descent algorithms
@@ -49,7 +49,7 @@ In this notebook series, we study the Logistic Regression classifier model by pe
       
 7. Unconstrained Optimization Algorithms: How To
 
-       -- Scikit-Learn LogisticRegression model uses various algorithms for the optimizing the Gradient Descent algorithm. In this notebook we try to understand how to use some of the optimization algorithms.
+       -- Scikit-Learn LogisticRegression model uses various algorithms for the optimizing the Gradient Descent algorithm. In this notebook, we try to understand how to use some of the optimization algorithms.
 
 
       
